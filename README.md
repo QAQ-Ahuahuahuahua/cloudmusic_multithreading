@@ -1,0 +1,2 @@
+# cloudmusic_multithreading
+python3.5利用多线程翻页抓取网易云音乐所有歌单名字和歌单号;后续继续完善。这里利用了bs4和requests
